@@ -1,0 +1,34 @@
+{
+  "products": {
+    "title": "Destaques da Curadoria",
+    "subtitle": "Selecionamos a dedo os itens mais desejados da K-Beauty e bem-estar. Clique para verificar disponibilidade no site oficial do parceiro.",
+    "partner": "Parceiro",
+    "cta": "Verificar no parceiro",
+    "items": {
+      "skin1004": {
+        "name": "SKIN1004 Sérum Solar Centella Asiatica",
+        "description": "Proteção solar hidratante com textura leve de sérum. Combina Ácido Hialurônico e Centella Asiatica para acalmar e hidratar, sem deixar resíduos brancos."
+      },
+      "mediheal": {
+        "name": "MEDIHEAL Máscara Facial Essencial (10un)",
+        "description": "A máscara nº 1 da Olive Young por 14 anos. Com 98% de Madecassoside puro, acalma vermelhidão e hidrata profundamente."
+      },
+      "celimax": {
+        "name": "celimax Booster Retinal 0.1%",
+        "description": "Tratamento intensivo com Retinal lipossomal a 0.1%. Penetra profundamente para reduzir rugas e minimizar poros."
+      },
+      "aestura": {
+        "name": "AESTURA Creme Barreira 365",
+        "description": "Creme rico em ceramidas encapsuladas que oferece até 120 horas de hidratação. Ideal para peles secas e sensíveis."
+      },
+      "unove": {
+        "name": "UNOVE Máscara Capilar Reconstrutora",
+        "description": "Tratamento intensivo com 30.000ppm de Keratin-PF. Reconstrói cabelos danificados e proporciona brilho espelhado."
+      },
+      "foodology": {
+        "name": "FOODOLOGY Jelly de Fibras",
+        "description": "Jelly funcional com 5g de fibras e prebióticos. Sabor romã, auxilia na saciedade e no equilíbrio intestinal."
+      }
+    }
+  }
+}

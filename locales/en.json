@@ -1,0 +1,34 @@
+{
+  "products": {
+    "title": "Curated Highlights",
+    "subtitle": "We handpicked the most sought-after K-Beauty and wellness items. Click to check availability on the official partner website.",
+    "partner": "Partner",
+    "cta": "Verify with partner",
+    "items": {
+      "skin1004": {
+        "name": "SKIN1004 Centella Asiatica Sun Serum",
+        "description": "Hydrating sun protection with a lightweight serum texture. Combines Hyaluronic Acid and Centella Asiatica to soothe and hydrate without leaving a white cast."
+      },
+      "mediheal": {
+        "name": "MEDIHEAL Essential Face Mask (10 pcs)",
+        "description": "Olive Young's No. 1 mask for 14 years. With 98% pure Madecassoside, it helps calm redness and deeply hydrate the skin."
+      },
+      "celimax": {
+        "name": "celimax Retinal 0.1% Booster",
+        "description": "An intensive treatment with 0.1% liposomal Retinal. It penetrates deeply to help reduce the appearance of wrinkles and minimize pores."
+      },
+      "aestura": {
+        "name": "AESTURA Atobarrier 365 Cream",
+        "description": "A rich cream with encapsulated ceramides that provides up to 120 hours of hydration. Ideal for dry and sensitive skin."
+      },
+      "unove": {
+        "name": "UNOVE Deep Damage Treatment",
+        "description": "An intensive treatment with 30,000 ppm Keratin-PF. Helps rebuild damaged hair and deliver a mirror-like shine."
+      },
+      "foodology": {
+        "name": "FOODOLOGY Fiber Jelly",
+        "description": "A functional jelly with 5 g of fiber and prebiotics. Pomegranate flavor, designed to support satiety and intestinal balance."
+      }
+    }
+  }
+}
