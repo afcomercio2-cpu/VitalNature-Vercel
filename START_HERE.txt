@@ -1,0 +1,15 @@
+VITALNATURE — VERCEL READY
+
+This is the deployment copy of VitalNature.
+
+IMPORTANT:
+1. The folder containing package.json is the project root.
+2. On Vercel, use Root Directory = . (if this folder is the repository root).
+3. Build Command = pnpm run build
+4. Output Directory = dist/public
+5. Before production, configure DATABASE_URL and JWT_SECRET.
+6. Affiliate links must be replaced with your real AWIN/partner tracking URLs.
+7. Product images from the Manus backup were not included as binary files. The site has a local placeholder to prevent broken-image icons. For production, migrate the approved images to permanent storage/CDN.
+
+Never upload .env files or private API credentials.
+See VERCEL_DEPLOY.md.

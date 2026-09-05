@@ -1,0 +1,3 @@
+Validação da seção manual de Produtos em Destaque — 18/08/2026
+
+O preview da Homepage foi aberto no idioma inglês e rolado até a seção. A seção aparece como “Curated Highlights”, com copy em inglês, dois cards e CTAs “Check price and stock with the partner”. Os placeholders de imagem `LINK_DA_IMAGEM_DO_MEDIHEAL_AQUI` e `LINK_DA_IMAGEM_DO_ANUA_AQUI` são exibidos como solicitado, enquanto os CTAs mantêm os links rastreáveis oficiais da Olive Young (`9F1NV5TC` e `ZRK75VM6`). Os nomes, textos alternativos, parceiros e descrições também alternam para inglês. A captura visual mostrou o layout de dois cards lado a lado em desktop, sem erro de TypeScript no preview.
