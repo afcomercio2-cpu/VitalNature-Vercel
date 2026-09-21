@@ -7,4 +7,10 @@ export const ENV = {
   isProduction: process.env.NODE_ENV === "production",
   forgeApiUrl: process.env.BUILT_IN_FORGE_API_URL ?? "",
   forgeApiKey: process.env.BUILT_IN_FORGE_API_KEY ?? "",
+  /**
+   * Team password for /admin panel.
+   * MUST be set only on the server (Vercel → Environment Variables).
+   * Never use a VITE_ prefix — that would expose it in the browser bundle.
+   */
+  staffPassword: process.env.STAFF_PASSWORD ?? "",
 };
